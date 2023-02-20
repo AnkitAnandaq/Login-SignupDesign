@@ -1,7 +1,7 @@
 
 # About
 
-This is a basic android application which i made for learning the design in android in this application you can "SignUp" and "Login" in this I used SQlite database so it will work Locally for now.
+This is a basic android application which i made for learning the design in android in this application you can "SignUp" and "Login" and I used SQlite database so it will work Locally for now.
 
 
 # How To Install?
